@@ -1,0 +1,4 @@
+consult('wumpus_world.pl').
+consult('my_agent.pl').
+initialize(fig72, Percept).
+wumpus:evaluate_agent(1,Score,Time).
